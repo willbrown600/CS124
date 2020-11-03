@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\WDD330-Will_Brown"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+		"javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+		"javascript.format.placeOpenBraceOnNewLineForControlBlocks": true,
+		"javascript.format.semicolons": "insert",
+		"vsintellicode.features.python.deepLearning": "disabled",
+		"html.format.indentInnerHtml": true,
+		"debug.javascript.autoAttachFilter": "always"
+	}
+}
